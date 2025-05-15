@@ -1,9 +1,8 @@
 # Custometic: Your Personal Stylist in the Palm of Your Hand
 
-
 ## 📱 Service Overview
 
-Custometic is an AI-powered personalized styling application that recommends optimized hair, makeup, and fashion styles after users upload their photos.
+Custometic is an AI-powered personalized styling application that recommends optimized hair, makeup, and fashion styles after users upload their photos. This project was selected as an outstanding innovation and developed as a collaboration with Mediheal, a leading Korean cosmetics company.
 
 > *"Wondering what hair/makeup styles suit you best? Ask Custometic!"*
 
@@ -102,6 +101,13 @@ Custometic is an AI-powered personalized styling application that recommends opt
 - Detailed makeup recommendations based on facial structure and features, beyond just skin tone analysis
 - Personalized styling suggestions rather than simple filter applications
 - Scientific styling recommendations based on quantitative data
+
+## 🏆 Recognition & Partnerships
+
+- Selected as an **Outstanding Innovation Project** in the field of AI and beauty technology
+- Developed in **collaboration with Mediheal**, a leading Korean cosmetics company
+- Implementation through joint technology development between academic research and industry expertise
+- Featured in various beauty tech exhibitions and conferences
 
 ## 🧑‍💻 Developer Information
 
